@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(225, 243, 245);
+    border-style: hidden;
+    margin: 51px;
+    margin-top: 0px;
+    /* width: 4%; */
+
+}
+hr{
+    background-color: rgb(225, 243, 245));
+    border-style:none ;
+    border-top-style:dotted ;
+    border-color: rgb(113, 143, 145);
+    border-width: 8px;
+    width:4%;
+}
+h1{
+    color: rgb(0, 19, 142);
+}
+h2{
+    color: rgb(0, 19, 142);
+}
